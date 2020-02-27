@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi Aplicación android</string>
+    <string name="contador">0</string>
+    <string name="head_str">Esta actividad contiene un número aleatorio desde 0  hasta %1d</string>
+</resources>
